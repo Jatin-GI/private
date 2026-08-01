@@ -219,7 +219,7 @@ function WelcomeScreen({ onStart }) {
           className="welcome-name mt-3 bg-gradient-to-r from-rose-200 via-pink-100 to-amber-100 bg-clip-text text-4xl font-semibold text-transparent sm:text-5xl"
           style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
         >
-          Nishtha
+          Kohli Ji
         </p>
 
         <p className="mt-6 max-w-xs text-sm leading-relaxed text-rose-100/70 sm:text-base">
